@@ -10,6 +10,5 @@ Im Laufe der Zeit erlebt er viele Abenteuer.
 * hat grüne Augen
 * beste Freunde sind Ron und Hermine 
 
-
-As Harry Potter said:> My name is Harry. Harry Potter.
-
+As Harry Potter said: 
+> My name is Harry. Harry Potter.
