@@ -12,3 +12,6 @@ Im Laufe der Zeit erlebt er viele Abenteuer.
 
 As Harry Potter said: 
 > My name is Harry. Harry Potter.
+
+<img src="https://cdn.pixabay.com/photo/2018/09/11/19/22/harry-potter-3670411_960_720.png"/>
+
