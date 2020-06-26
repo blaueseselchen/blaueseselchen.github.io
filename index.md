@@ -4,7 +4,7 @@ Am Anfang der Reihe erfährt er, dass er ein Zauberer ist und dass es diese Zaub
 Im Laufe der Zeit erlebt er viele Abenteuer.
 
 ## Charaktereigenschaften
-* sehr loyal 
+* sehr loyal (wirklich sehr!)
 * hat eine Blitznarbe
 * hat unordnetliches Haar
 * hat grüne Augen
